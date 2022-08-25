@@ -10,7 +10,7 @@ public class Die {
     private int number;
     private Random random;
 
-    public Die (){
+    public Die (){//the consturactor method
         random = new Random();
         number = no_number;
     }
