@@ -15,5 +15,4 @@ public class RollDice {
         two.getNumber( ) + " " +
         three.getNumber());
     }
-    
 }
