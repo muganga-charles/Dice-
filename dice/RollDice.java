@@ -1,5 +1,4 @@
 package dice;
-
 public class RollDice {
     public static void main(String[] args) {
         Die one, two, three;
