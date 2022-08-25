@@ -1,4 +1,4 @@
-package die;
+package dice;
 
 public class RollDice {
     public static void main(String[] args) {
