@@ -6,4 +6,4 @@ This contains a programmer-defined-class with three data members (static element
 Then followed by a consturactor. And then other methods can follow.<br />
 <br />
 2.RollDice.java <br />
-This contains a client-defined-class which is linked to a class in Die.java and access the methods and uses them.
+This contains a client-defined-class which is linked to a class in Die.java and access the methods and uses them..
