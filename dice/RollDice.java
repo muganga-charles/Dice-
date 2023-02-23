@@ -5,6 +5,7 @@ public class RollDice {
         one = new Die();
         two = new Die();
         three = new Die();
+        // 
 
         one.roll();
         two.roll();
