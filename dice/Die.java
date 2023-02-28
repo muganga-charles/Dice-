@@ -1,6 +1,6 @@
 package dice;
 import java.util.*;
-public class Die {//jl
+public class Die {//j
     private static final int max_number = 6;
 
     private static final int min_number = 1;
