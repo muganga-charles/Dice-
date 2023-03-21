@@ -1,4 +1,4 @@
-package dice;
+package dice;//
 import java.util.*;
 public class Die {
     private static final int max_number = 6;
